@@ -1,0 +1,26 @@
+la soluzione del caso 1 utilizzando PA=LU e 
+-1
+-1
+la soluzione del caso 1 utilizzando QR e 
+-1
+-1
+l'errore relativo del caso 1 usando il metodo PA=LU e 2.22045e-16
+l'errore relativo del caso 1 usando il metodo QR e 7.85046e-16
+--------------------------------------------- 
+la soluzione del caso 2 utilizzando PA=LU e 
+-1
+-1
+la soluzione del caso 2 utilizzando QR e 
+-1
+-1
+l'errore relativo del caso 2 usando il metodo PA=LU e 4.58078e-13
+l'errore relativo del caso 2 usando il metodo QR e 8.01803e-13
+--------------------------------------------- 
+la soluzione del caso 3 utilizzando PA=LU e 
+-1
+-1
+la soluzione del caso 3 utilizzando QR e 
+-1
+-1
+l'errore relativo del caso 3 usando il metodo PA=LU e 5.59902e-07
+l'errore relativo del caso 3 usando il metodo QR e 7.42977e-07
